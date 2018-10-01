@@ -45,6 +45,8 @@ public class Bubble {
 			System.out.println(""+arr[i]);
 		}
 		
+		in.close();
+		
 
 	}
 
