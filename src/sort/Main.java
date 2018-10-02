@@ -1,9 +1,14 @@
 package sort;
 
-public class Main{
+public class Main implements BurbujaSimple{
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
+		//BurbujaSimple.burbujaSimple(matriz);
+		//BubujaMejorada.Bubblesort(matriz)
+		
+		
+		
 		
 	}
 

@@ -1,6 +1,6 @@
 package sort;
 
-public interface BubujaMejorada {
+public interface BurbujaMejorada {
 
 	public static void Bubblesort(int matriz[]){
 	 int buffer;
