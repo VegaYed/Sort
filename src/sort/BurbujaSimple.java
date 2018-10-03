@@ -2,7 +2,7 @@ package sort;
 
 public interface BurbujaSimple {
 	
-	public static void burbujaSimple(int matriz[]) {
+	public static void SortburbujaSimple(int matriz[]) {
 		
 		int i,j;
 		

@@ -2,7 +2,7 @@ package sort;
 
 public interface BurbujaMejorada {
 
-	public static void Bubblesort(int matriz[]){
+	public static void SortBurbujaMejorada(int matriz[]){
 	 int buffer;
 	 int i,j;
 	 for(i = 0; i < matriz.length; i++){

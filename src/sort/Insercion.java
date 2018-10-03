@@ -4,7 +4,7 @@ public interface Insercion {
 	
 	//ordenamiento por Insercion
 	
-	public static void Insercion(int array[]) {
+	public static void SortInsercion(int array[]) {
 		
 		int aux,pos;
 		
